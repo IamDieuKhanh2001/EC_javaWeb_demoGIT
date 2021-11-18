@@ -23,7 +23,7 @@
     <jsp:body>
         <div class="card">
             <h4 class="card-header d-flex justify-content-between">
-                Product index
+                Product index (admin)
                 <a class="btn btn-outline-success" href="${pageContext.request.contextPath}/Admin/Product/Add" role="button">
                     Add Product
                     <i class="fa fa-plus" aria-hidden="true"></i>
